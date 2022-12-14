@@ -1,0 +1,4 @@
+repository "My project1@lvy1221@cloud.cn"
+  path "/"
+    smartbranch "/main/怪物/11月13日  demo版本" 
+     
